@@ -1,1 +1,0 @@
-it is just for testing git and its commands.
